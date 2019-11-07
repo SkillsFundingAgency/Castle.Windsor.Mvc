@@ -1,4 +1,4 @@
-Castle.Windsor.Mvc
+Castle.Windsor.Mvc is no longer suppoted
 ==================
 
 This project provides the `WindsorControllerFactory` described in
